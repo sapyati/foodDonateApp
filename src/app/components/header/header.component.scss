@@ -1,0 +1,14 @@
+.login-register {
+  margin: 0px !important;
+  padding: 0px !important;
+  li {
+    display: block;
+    float: left;
+    list-style-type: none;
+    margin-right: 20px;
+    a {
+      font-weight: bold;
+      text-transform: uppercase;
+    }
+  }
+}
